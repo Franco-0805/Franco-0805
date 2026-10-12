@@ -1,16 +1,27 @@
-## Hi there 👋
+# Introduction
 
-<!--
-**Franco-0805/Franco-0805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Yue Chen, a Software Engineering student at
+the University of Malaya.
 
-Here are some ideas to get you started:
+I am interested in software development, artificial
+intelligence, and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Course Expectations
+
+Through this Software Maintenance and Evolution course,
+I hope to understand how existing software systems
+are maintained, improved, and adapted to changing
+requirements.
+
+I also look forward to gaining hands-on experience
+with version control, code reviews, and collaborative
+software development.
+
+## Fun Fact
+
+I enjoy exploring new technologies and developing
+software projects.
+
+## My Image
+
+![My Image](me.jpg)
