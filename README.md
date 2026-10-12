@@ -24,4 +24,4 @@ software projects.
 
 ## My Image
 
-![My Image](me.jpg)
+![My Image](Avatar.jpg)
